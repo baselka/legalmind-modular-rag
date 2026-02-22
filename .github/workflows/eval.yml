@@ -68,14 +68,23 @@ jobs:
         run: |
           uv run uvicorn main:app --host 0.0.0.0 --port 8000 &
           # Wait for server to be ready
-          for i in {1..20}; do
+          for i in {1..30}; do
             if curl -s http://localhost:8000/api/v1/health | grep -q 'healthy'; then
               echo "Server is ready!"
               break
             fi
-            echo "Waiting for server... ($i/20)"
+            echo "Waiting for server... ($i/30)"
             sleep 5
           done
+
+      - name: Ingest Sample Documents
+        run: |
+          # The RAG benchmark needs data to retrieve!
+          # Ingesting the core legal documents used in the golden dataset.
+          curl -X POST http://localhost:8000/api/v1/ingest -F "file=@sample_docs/ahkam.pdf"
+          curl -X POST http://localhost:8000/api/v1/ingest -F "file=@sample_docs/labor_system.pdf"
+          curl -X POST http://localhost:8000/api/v1/ingest -F "file=@sample_docs/contract_acme_services_2023.pdf"
+          curl -X POST http://localhost:8000/api/v1/ingest -F "file=@sample_docs/employment_agreement_cto_2023.pdf"
 
       - name: Run RAG Quality Gates (System Benchmark)
         env:

@@ -71,9 +71,10 @@ jobs:
         run: |
           # The RAG benchmark needs data to retrieve!
           # Ingesting the core legal documents used in the golden dataset.
-          curl -X POST http://localhost:8000/api/v1/ingest -F "file=@sample_docs/ahkam.pdf"
-          curl -X POST http://localhost:8000/api/v1/ingest -F "file=@sample_docs/labor_system.pdf"
           curl -X POST http://localhost:8000/api/v1/ingest -F "file=@sample_docs/contract_acme_services_2023.pdf"
+          curl -X POST http://localhost:8000/api/v1/ingest -F "file=@sample_docs/case_file_henderson_v_blackwood_2022.pdf"
+          curl -X POST http://localhost:8000/api/v1/ingest -F "file=@sample_docs/nda_globex_stellartech_2023.pdf"
+          curl -X POST http://localhost:8000/api/v1/ingest -F "file=@sample_docs/brief_motion_summary_judgment_2022.pdf"
           curl -X POST http://localhost:8000/api/v1/ingest -F "file=@sample_docs/employment_agreement_cto_2023.pdf"
 
       - name: Run RAG Quality Gates (System Benchmark)

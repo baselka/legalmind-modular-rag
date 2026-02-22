@@ -69,7 +69,7 @@ def test_rag_system_performance(q_entry, faithfulness_metric, precision_metric):
         pytest.fail(f"API query failed for {q_entry['id']}: {exc}")
 
     actual_answer = res_data["answer"]
-    retrieved_contexts = [c["text"] for c in res_data.get("citations", [])]
+    retrieved_contexts = [c["excerpt"] for c in res_data.get("citations", [])]
     
     # 2. Construct evaluation test case
     test_case = LLMTestCase(

@@ -61,3 +61,6 @@ coverage.xml
 # System Files
 .DS_Store
 Thumbs.db
+
+# ARABIC Sample Docs
+ARABIC_SAMPLE_DOCS/

@@ -19,7 +19,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - run: uv pip install -r requirements.txt
+      - run: uv pip install --system -r requirements.txt
       - name: Run unit tests
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -57,7 +57,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - run: uv pip install -r requirements.txt
+      - run: uv pip install --system -r requirements.txt
 
       - name: Start RAG Backend
         env:

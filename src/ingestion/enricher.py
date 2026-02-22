@@ -59,10 +59,17 @@ def _fallback_date(text: str) -> datetime | None:
     for pattern in _DATE_PATTERNS:
         m = re.search(pattern, text, re.IGNORECASE)
         if m:
-            try:
-                return datetime.strptime(m.group(0), "%B %d, %Y")
-            except ValueError:
-                pass
+            # Try common formats that match our regexes
+            for fmt in ["%m/%d/%Y", "%m-%d-%Y", "%B %d, %Y", "%m/%d/%y", "%m-%d-%y"]:
+                try:
+                    # strptime is case-sensitive for %B, so we capitalise
+                    val = m.group(0).replace(",", ", ").replace("  ", " ").strip()
+                    # If it contains letters, title case it for %B
+                    if any(c.isalpha() for c in val):
+                        val = val.title()
+                    return datetime.strptime(val, fmt)
+                except ValueError:
+                    continue
     return None
 
 

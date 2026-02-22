@@ -40,10 +40,15 @@ def _llama_doc(text: str, metadata: DocumentMetadata) -> LlamaDocument:
 
 
 def _node_to_chunk(node: TextNode, metadata: DocumentMetadata, index: int) -> Chunk:
+    # Prepend filename and other metadata to help with retrieval of factual content
+    # This prevents uninformative headers from being the only chunks with document identity.
+    prefix = f"[Document: {metadata.filename}] "
+    augmented_text = prefix + node.get_content()
+    
     return Chunk(
         chunk_id=node.node_id,
         document_id=metadata.document_id,
-        text=node.get_content(),
+        text=augmented_text,
         chunk_index=index,
         metadata=metadata,
     )

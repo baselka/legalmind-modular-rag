@@ -213,7 +213,7 @@ async def ingest_file(file_path: str | Path) -> list[Chunk]:
     text = extract_text_from_pdf(path)
     base_metadata = DocumentMetadata(filename=path.name)
     metadata = await enrich_metadata(text, base_metadata)
-    chunks = chunk_document(text, metadata, semantic=True)
+    chunks = chunk_document(text, metadata, semantic=False)
 
     qdrant = await _get_qdrant_client()
     await ensure_collection_exists(qdrant)
@@ -234,7 +234,7 @@ async def ingest_bytes(content: bytes, filename: str) -> list[Chunk]:
     text = extract_text_from_bytes(content, filename)
     base_metadata = DocumentMetadata(filename=filename)
     metadata = await enrich_metadata(text, base_metadata)
-    chunks = chunk_document(text, metadata, semantic=True)
+    chunks = chunk_document(text, metadata, semantic=False)
 
     qdrant = await _get_qdrant_client()
     await ensure_collection_exists(qdrant)

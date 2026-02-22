@@ -63,8 +63,8 @@ def extract_citations(
                 document_id=chunk.document_id,
                 chunk_id=chunk.chunk_id,
                 filename=chunk.metadata.filename,
-                # Short excerpt for display; full text is in Qdrant
-                excerpt=chunk.text[:400].replace("\n", " ").strip(),
+                # Include full chunk text (up to 2000 chars) for evaluation and display
+                excerpt=chunk.text[:2000].replace("\n", " ").strip(),
                 relevance_score=relevance,
             )
         )
@@ -92,7 +92,7 @@ def build_query_response(
                 document_id=c.document_id,
                 chunk_id=c.chunk_id,
                 filename=c.metadata.filename,
-                excerpt=c.text[:400].replace("\n", " ").strip(),
+                excerpt=c.text[:2000].replace("\n", " ").strip(),
                 relevance_score=c.embedding[0] if c.embedding else 0.0,
             )
             for c in context_chunks

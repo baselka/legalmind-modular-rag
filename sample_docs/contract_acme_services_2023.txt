@@ -1,0 +1,71 @@
+PROFESSIONAL SERVICES AGREEMENT
+
+This Professional Services Agreement ("Agreement") is entered into as of March 15, 2023 ("Effective Date"),
+by and between Acme Corporation, a Delaware corporation ("Client"), having its principal place of business at
+100 Commerce Street, Wilmington, DE 19801, and LexTech Solutions LLC, a New York limited liability company
+("Service Provider"), having its principal place of business at 200 Park Avenue, New York, NY 10166.
+
+1. SERVICES
+Service Provider agrees to provide Client with legal technology consulting services as described in
+Exhibit A attached hereto ("Services"). Service Provider shall perform the Services in a professional
+and workmanlike manner consistent with industry standards.
+
+2. TERM
+This Agreement shall commence on the Effective Date and continue for a period of twelve (12) months
+unless earlier terminated in accordance with Section 9 of this Agreement.
+
+3. COMPENSATION
+Client shall pay Service Provider a monthly retainer fee of USD $15,000 (fifteen thousand dollars),
+due and payable within thirty (30) days of invoice. Late payments shall accrue interest at the rate
+of 1.5% per month.
+
+4. CONFIDENTIALITY
+Each party agrees to keep confidential all non-public information disclosed by the other party
+("Confidential Information") and to use such Confidential Information solely for the purposes of
+this Agreement. This obligation shall survive termination for a period of five (5) years.
+
+5. INDEMNIFICATION
+Service Provider shall indemnify, defend, and hold harmless Client and its officers, directors,
+employees, and agents from and against any and all claims, damages, losses, costs, and expenses
+(including reasonable attorneys' fees) arising out of or related to Service Provider's negligence,
+willful misconduct, or breach of this Agreement.
+
+6. LIMITATION OF LIABILITY
+In no event shall either party be liable to the other for any indirect, incidental, special,
+exemplary, or consequential damages, even if advised of the possibility of such damages.
+The total cumulative liability of Service Provider under this Agreement shall not exceed the
+total fees paid by Client in the twelve (12) months preceding the claim.
+
+7. INTELLECTUAL PROPERTY
+All work product created by Service Provider specifically for Client under this Agreement shall
+be considered "work made for hire" and shall be owned exclusively by Client upon full payment.
+
+8. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of the State of
+New York, without regard to conflicts of law principles. Any disputes shall be resolved by
+binding arbitration in New York City under the rules of JAMS.
+
+9. TERMINATION
+Either party may terminate this Agreement upon thirty (30) days written notice. Client may
+terminate immediately for cause if Service Provider materially breaches this Agreement and
+fails to cure such breach within fifteen (15) days of written notice.
+
+10. FORCE MAJEURE
+Neither party shall be liable for any delay or failure to perform its obligations under this
+Agreement due to causes beyond its reasonable control, including acts of God, war, terrorism,
+pandemics, government orders, or natural disasters ("Force Majeure Event").
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+ACME CORPORATION                    LEXTECH SOLUTIONS LLC
+By: ______________________          By: ______________________
+Name: John Smith                    Name: Sarah Johnson
+Title: Chief Executive Officer      Title: Managing Member
+Date: March 15, 2023                Date: March 15, 2023
+
+EXHIBIT A – SCOPE OF SERVICES
+1. Legal technology assessment and roadmap development
+2. Contract lifecycle management system implementation
+3. AI-powered document review configuration and training
+4. Staff training and change management support
+Client Matter ID: ACM-2023-0315

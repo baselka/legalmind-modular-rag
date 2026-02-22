@@ -1,0 +1,64 @@
+CONFIDENTIAL CASE FILE
+
+Case Name: Henderson v. Blackwood Industries, Inc.
+Case Number: 2022-CV-04521
+Court: United States District Court, Southern District of New York
+Filed: June 8, 2022
+Client: Robert Henderson
+Matter ID: HEN-2022-0608
+
+CASE SUMMARY
+Plaintiff Robert Henderson ("Henderson") brings this action against Blackwood Industries, Inc.
+("Blackwood") for wrongful termination, breach of employment contract, and violation of the
+Sarbanes-Oxley Act whistleblower protection provisions, 18 U.S.C. § 1514A.
+
+FACTS
+Henderson was employed by Blackwood as Vice President of Finance from January 2018 until his
+termination on April 30, 2022. During Q4 2021, Henderson discovered what he reasonably believed
+to be securities fraud: Blackwood's CFO, Marcus Reeves, had directed the accounting team to
+improperly capitalize operating expenses, inflating reported earnings by approximately $4.2 million.
+
+Henderson reported his concerns internally to the Audit Committee on February 14, 2022. On
+March 1, 2022, he filed a complaint with the Securities and Exchange Commission. Sixty days later,
+on April 30, 2022, Blackwood terminated Henderson's employment, citing "restructuring."
+
+LEGAL CLAIMS
+Count I: Wrongful Termination in Violation of Sarbanes-Oxley Act (18 U.S.C. § 1514A)
+  - Henderson engaged in protected activity by reporting suspected securities violations
+  - The 60-day proximity between the SEC complaint and termination creates a strong inference
+    of retaliatory intent
+  - Blackwood's stated reason (restructuring) is pretextual -- Henderson's position was
+    subsequently filled by an internal candidate
+
+Count II: Breach of Employment Contract
+  - Henderson's employment agreement dated January 5, 2018 contains a clause requiring
+    "cause" for termination, defined in Section 4.2 as gross misconduct, conviction of a felony,
+    or willful neglect of duties
+  - None of these conditions were met
+  - Henderson is entitled to 12 months severance pay per Section 7.1 of the agreement
+
+Count III: Defamation
+  - Blackwood's general counsel stated to Henderson's subsequent prospective employer that
+    Henderson was "terminated for financial irregularities" -- a false statement made with
+    knowledge of its falsity or reckless disregard for the truth
+
+DAMAGES
+  - Back pay: approximately $340,000 (10 months at $408,000 annual salary)
+  - Front pay: approximately $816,000 (estimated 24 months to equivalent re-employment)
+  - Compensatory damages for emotional distress: TBD
+  - Punitive damages under SOX: up to $250,000
+  - Attorneys' fees and costs
+
+KEY DOCUMENTS
+  1. Employment Agreement (Jan 5, 2018) -- signed by Henderson and CEO Patricia Blackwood
+  2. Internal Audit Committee memo (Feb 14, 2022)
+  3. SEC whistleblower complaint (Mar 1, 2022) -- confidential
+  4. Termination letter (Apr 30, 2022)
+  5. Blackwood Q4 2021 financial statements (allegedly fraudulent)
+  6. Email chain between CFO Reeves and Accounting team (subpoenaed)
+
+NEXT STEPS
+  - Discovery cutoff: December 1, 2022
+  - Depose CFO Marcus Reeves and CEO Patricia Blackwood
+  - Retain forensic accounting expert to quantify earnings manipulation
+  - File motion for summary judgment by January 15, 2023

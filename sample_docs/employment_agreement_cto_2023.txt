@@ -1,0 +1,102 @@
+EXECUTIVE EMPLOYMENT AGREEMENT
+
+This Executive Employment Agreement ("Agreement") is made and entered into as of January 1, 2023
+("Effective Date"), by and between NovaStar Financial Group, Inc., a Delaware corporation
+("Company"), and Dr. Amara Osei ("Executive").
+
+RECITALS
+The Company desires to employ Executive as its Chief Technology Officer, and Executive desires
+to accept such employment, on the terms and conditions set forth herein.
+
+1. POSITION AND DUTIES
+Executive shall serve as Chief Technology Officer ("CTO") reporting directly to the Chief
+Executive Officer. Executive's duties shall include: overseeing all technology strategy and
+operations; managing the engineering, data science, and cybersecurity teams; leading the
+Company's AI and machine learning initiatives; and serving as a member of the Executive
+Leadership Team.
+
+2. TERM
+The initial term of employment shall be three (3) years commencing on the Effective Date,
+subject to earlier termination as provided herein. The Agreement shall automatically renew
+for successive one-year periods unless either party provides ninety (90) days prior written
+notice of non-renewal.
+
+3. COMPENSATION
+
+3.1 Base Salary
+The Company shall pay Executive an annual base salary of USD $420,000, payable bi-weekly.
+The salary shall be reviewed annually by the Compensation Committee.
+
+3.2 Annual Bonus
+Executive shall be eligible for an annual performance bonus with a target of 50% of base salary
+($210,000) and a maximum of 100% of base salary ($420,000), based on achievement of objectives
+mutually agreed upon by Executive and the CEO no later than January 31 of each year.
+
+3.3 Equity
+Executive shall be granted 150,000 restricted stock units ("RSUs") vesting over four (4) years
+with a one-year cliff (25% after 12 months, then quarterly thereafter). Subject to acceleration
+provisions in Section 7.
+
+4. BENEFITS
+Executive shall be entitled to participate in all benefit plans generally available to senior
+executives, including health insurance, dental, vision, 401(k) with 6% Company match, and
+an annual executive physical examination.
+
+5. CONFIDENTIALITY AND NON-DISCLOSURE
+Executive agrees to maintain in strict confidence all Confidential Information of the Company.
+This obligation shall survive the termination of this Agreement indefinitely with respect to
+trade secrets and for five (5) years with respect to other Confidential Information.
+
+6. RESTRICTIVE COVENANTS
+
+6.1 Non-Compete
+For a period of twelve (12) months following termination of employment for any reason, Executive
+shall not, directly or indirectly, engage in any business that competes with the Company's
+financial technology products in the United States, Canada, or United Kingdom.
+
+6.2 Non-Solicitation of Employees
+For eighteen (18) months following termination, Executive shall not solicit or recruit any
+employee of the Company.
+
+6.3 Non-Solicitation of Clients
+For twelve (12) months following termination, Executive shall not solicit any client of the
+Company with whom Executive had material contact during the last two years of employment.
+
+7. TERMINATION AND SEVERANCE
+
+7.1 Termination Without Cause or Resignation for Good Reason
+If the Company terminates Executive's employment without Cause, or if Executive resigns for
+Good Reason (as defined in Section 7.3), Executive shall receive:
+  (a) continued base salary for eighteen (18) months ("Severance Period");
+  (b) a pro-rated target bonus for the year of termination;
+  (c) continued health benefits through COBRA for the Severance Period;
+  (d) accelerated vesting of RSUs that would have vested in the 12 months following termination.
+
+7.2 Termination for Cause
+If the Company terminates Executive's employment for Cause, Executive shall receive only accrued
+and unpaid salary through the date of termination.
+
+7.3 Definition of Good Reason
+"Good Reason" means, without Executive's written consent: (a) material reduction in base salary;
+(b) material diminution in duties or reporting structure; (c) required relocation of more than
+fifty (50) miles; or (d) material breach of this Agreement by the Company.
+
+7.4 Change in Control
+In the event of a Change in Control (as defined herein), all unvested RSUs shall accelerate
+and vest in full upon a qualifying termination within 18 months following the Change in Control
+("double-trigger acceleration").
+
+8. DISPUTE RESOLUTION
+Any dispute arising under this Agreement shall be submitted to binding arbitration before JAMS
+in New York, New York, under JAMS Employment Arbitration Rules.
+
+9. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of Delaware.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+NOVASTAR FINANCIAL GROUP, INC.         EXECUTIVE
+By: _________________________           Signature: _____________________
+Name: Margaret Chen                     Dr. Amara Osei
+Title: Chief Executive Officer
+Date: January 1, 2023                   Date: January 1, 2023

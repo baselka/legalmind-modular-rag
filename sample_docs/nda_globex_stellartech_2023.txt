@@ -1,0 +1,65 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into as of September 1, 2023,
+between Globex International Ltd., a United Kingdom corporation ("Party A"), and StellarTech
+Ventures, Inc., a California corporation ("Party B"). Each of Party A and Party B is referred
+to individually as a "Party" and collectively as the "Parties."
+
+1. PURPOSE
+The Parties wish to explore a potential business partnership involving the joint development
+of artificial intelligence tools for legal document analysis (the "Proposed Transaction").
+In connection with evaluating the Proposed Transaction, each Party may disclose or make
+available to the other certain non-public, proprietary, or confidential information.
+
+2. DEFINITION OF CONFIDENTIAL INFORMATION
+"Confidential Information" means any non-public information that a Party designates as
+confidential or that a reasonable person would understand to be confidential given the nature
+of the information and circumstances of disclosure, including but not limited to:
+  (a) trade secrets, inventions, patent applications, and technical data;
+  (b) business plans, financial projections, and customer lists;
+  (c) software, algorithms, and model weights (including large language model parameters);
+  (d) the existence and terms of the Proposed Transaction.
+
+Confidential Information does NOT include information that:
+  (i) is or becomes publicly available without breach of this Agreement;
+  (ii) was rightfully known by the Receiving Party prior to disclosure;
+  (iii) is rightfully obtained from a third party without restriction; or
+  (iv) is independently developed by the Receiving Party without use of Confidential Information.
+
+3. OBLIGATIONS
+Each Party (the "Receiving Party") agrees to:
+  (a) hold the other Party's Confidential Information in strict confidence;
+  (b) use Confidential Information solely to evaluate or pursue the Proposed Transaction;
+  (c) limit disclosure to employees and advisors with a need to know who are bound by
+      obligations at least as protective as those in this Agreement;
+  (d) protect Confidential Information using at least the same degree of care it uses to
+      protect its own confidential information, but no less than reasonable care.
+
+4. TERM
+This Agreement shall remain in effect for three (3) years from the Effective Date.
+The confidentiality obligations with respect to trade secrets shall survive indefinitely.
+
+5. RETURN OR DESTRUCTION
+Upon written request or termination of discussions, each Party shall promptly return or
+certify destruction of all Confidential Information and copies thereof, except as required
+by law or pursuant to automated backup systems.
+
+6. INJUNCTIVE RELIEF
+Each Party acknowledges that a breach of this Agreement may cause irreparable harm for
+which monetary damages would be an inadequate remedy. Accordingly, either Party shall be
+entitled to seek equitable relief, including injunction and specific performance, without
+the requirement of posting bond.
+
+7. GOVERNING LAW AND JURISDICTION
+This Agreement shall be governed by the laws of the State of Delaware. The Parties consent
+to the exclusive jurisdiction of the state and federal courts located in Wilmington, Delaware.
+
+8. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the Parties with respect to its
+subject matter and supersedes all prior negotiations, representations, or agreements.
+
+Party A: GLOBEX INTERNATIONAL LTD.     Party B: STELLARTECH VENTURES, INC.
+By: _________________________           By: _________________________
+Name: Elena Marchetti                   Name: David Kim
+Title: Chief Legal Officer              Title: Chief Executive Officer
+Date: September 1, 2023                 Date: September 1, 2023

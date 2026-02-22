@@ -1,0 +1,78 @@
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+PRISM ANALYTICS, INC.,
+    Plaintiff,
+                                        Case No. 22-CV-09874
+    v.
+                                        MEMORANDUM OF LAW IN SUPPORT OF
+VECTOR DATA SYSTEMS, LLC,               DEFENDANT'S MOTION FOR SUMMARY
+    Defendant.                          JUDGMENT
+
+PRELIMINARY STATEMENT
+
+Defendant Vector Data Systems, LLC ("Vector Data") respectfully submits this memorandum in
+support of its motion for summary judgment pursuant to Federal Rule of Civil Procedure 56.
+Summary judgment is warranted because Plaintiff Prism Analytics, Inc. ("Prism") cannot
+establish a genuine dispute of material fact on any of its claims.
+
+STATEMENT OF FACTS
+
+Prism alleges that Vector Data misappropriated Prism's proprietary data analytics methodology
+and incorporated it into Vector Data's competing "DataPulse" platform. The undisputed record
+shows otherwise:
+
+1. Vector Data independently developed DataPulse beginning in Q1 2020 -- before any contact
+   with Prism -- as evidenced by git commit logs, engineering design documents, and testimony
+   from Vector Data's engineering team.
+
+2. Prism's asserted trade secret -- its "weighted confidence interval methodology" -- was
+   disclosed in Prism's 2019 white paper published openly on its website and in a peer-reviewed
+   academic journal, destroying any trade secret protection.
+
+3. The functionality Prism identifies as allegedly misappropriated (adaptive threshold
+   calibration) is covered by Vector Data's U.S. Patent No. 11,234,567, filed in March 2020.
+
+LEGAL STANDARD
+
+Summary judgment is appropriate when "there is no genuine dispute as to any material fact
+and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a); see
+Celotex Corp. v. Catrett, 477 U.S. 317, 322 (1986). The non-moving party must present
+"significant probative evidence" to defeat a properly supported motion. Anderson v. Liberty
+Lobby, Inc., 477 U.S. 242, 249 (1986).
+
+ARGUMENT
+
+I. PRISM'S TRADE SECRET CLAIMS FAIL BECAUSE THE ALLEGED SECRET WAS PUBLICLY DISCLOSED
+
+To prevail on a trade secret misappropriation claim under the Defend Trade Secrets Act
+(18 U.S.C. § 1836), a plaintiff must demonstrate that the information constituted a trade
+secret at the time of misappropriation. A trade secret must be kept reasonably secret by
+its holder. Prism's publication of its methodology in 2019 -- with full technical detail --
+destroyed any trade secret protection before Prism and Vector Data ever discussed a partnership.
+
+II. VECTOR DATA INDEPENDENTLY DEVELOPED DATAPULSE
+
+Even if Prism's methodology had retained trade secret status, independent development is a
+complete defense under 18 U.S.C. § 1839(6)(B). The undisputed engineering records establish
+that Vector Data's team independently arrived at similar techniques through their own research.
+
+III. PATENT PREEMPTION
+
+Prism's state-law unfair competition claim is preempted to the extent it is based on the
+same conduct as the patent misappropriation claim. See Bonito Boats, Inc. v. Thunder Craft
+Boats, Inc., 489 U.S. 141, 156 (1989).
+
+CONCLUSION
+
+For the foregoing reasons, Vector Data respectfully requests that this Court grant summary
+judgment in its favor on all counts, and award Vector Data its reasonable attorneys' fees
+and costs as the prevailing party under 18 U.S.C. § 1836(b)(3)(D).
+
+Respectfully submitted,
+MORRISON & HARTWELL LLP
+
+By: /s/ Katherine A. Morrison
+Katherine A. Morrison
+Counsel for Defendant Vector Data Systems, LLC
+Date: November 10, 2022
